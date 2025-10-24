@@ -15,3 +15,4 @@
 - docs: fix a small wording issue
 - docs: link the usage section
 - fix: add a note about the defaults
+- docs: clarify the setup steps
